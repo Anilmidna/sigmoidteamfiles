@@ -1,0 +1,16 @@
+CHALLENGE 1
+Task: Create a local repo with team.py containing two functions — greet() and farewell(). 
+Push to GitHub. 
+Create a branch feature-update and modify both functions differently on main and feature-update simultaneously. Merge, resolve both conflicts, and push clean final code to GitHub.
+
+Done when: GitHub shows both branches, no conflict markers in team.py, and git log --oneline shows at 
+least 5 commits (important). 
+
+CHALLENGE 2
+
+Task: Create a file notes.txt locally and push it to GitHub. 
+Then make a change to the same file directly on GitHub (use GitHub's edit button), 
+pull it back to your local machine and verify the change reflects locally.
+
+Done when: Your local notes.txt matches what you edited on GitHub and git log --oneline shows 
+commits from both sides.
